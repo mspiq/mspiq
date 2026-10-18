@@ -26,7 +26,7 @@ Certified Ethical Hacker Iraq | Most OffSec Certifications Iraq
 
 10x OffSec Certified | Penetration Tester | SOC Analyst | Software Developer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammed_Salah-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohammed-salah-9bb756443/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammed_Salah-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/mspiq)
 
 ---
 
